@@ -93,3 +93,16 @@ This command starts the application using `nest-cli` with file watching enabled.
 ```bash
 npm run start
 ```
+
+---
+
+## 👤 Author
+
+- **Navalojanan Navaretnarajah**
+- **GitHub:** [@nvljntechhub](https://github.com/nvljntechhub)
+- **LinkedIn:** [https://www.linkedin.com/in/navalojanan-navaretnarajah/]
+- **Email:** [nrrnlojanan@gmail.com](nrrnlojanan@gmail.com)
+
+Project Link: [hiring-fullstack-todo](https://github.com/nvljntechhub/hiring-fullstack-todo)
+
+---
